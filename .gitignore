@@ -1,10 +1,11 @@
 ### IntelliJ IDEA ###
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
 *.xml
 .idea
 *.class
+src/Temp*
+
+
 
 ### Eclipse ###
 .apt_generated
